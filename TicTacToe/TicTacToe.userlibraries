@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="KotlinJavaRuntime">
+    <archive path="C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2021.2.3/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2021.2.3/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+    <archive path="C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2021.2.3/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" />
+  </library>
+  <library name="Python 3.10 interpreter library" />
+</eclipse-userlibraries>
+
